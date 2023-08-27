@@ -1,6 +1,7 @@
 /* ApplicationForm.css */
 .application-form-container {
-    background-image: url('./images/background.jpg'); /* Adjust the path to your background image */
+    background-color: beige; /* Adjust the path to your background image */
+    background-blend-mode: lighten;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -9,7 +10,7 @@
   
 /* Style the h2 heading with a specific color */
 h2 {
-    color:rgb(34, 0, 255); /* Replace with the color code you prefer */
+    color:rgb(175, 53, 236); /* Replace with the color code you prefer */
   }
   
   /* Optionally, style other headings with different colors */
