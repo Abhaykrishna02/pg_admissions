@@ -1,0 +1,21 @@
+/* ApplicationForm.css */
+.application-form-container {
+    background-image: url('./images/background.jpg'); /* Adjust the path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh; /* Ensure the background covers the full height of the viewport */
+  }
+  
+/* Style the h2 heading with a specific color */
+h2 {
+    color:rgb(34, 0, 255); /* Replace with the color code you prefer */
+  }
+  
+  /* Optionally, style other headings with different colors */
+  /* For example, changing the color of the labels */
+  .form-label {
+    color:crimson; /* Replace with the color code you prefer */
+    font-weight: bold;
+  }
+  
